@@ -1,0 +1,27 @@
+{
+  "name": "proxy-wrappers",
+  "version": "1.0.0",
+  "description": "A library of proxy wrappers built with javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/itsSayantan/proxy-wrappers.git"
+  },
+  "keywords": [
+    "proxy-wrappers",
+    "javascript",
+    "proxy",
+    "wrappers",
+    "proxy",
+    "wrappers"
+  ],
+  "author": "Sayantan Ghosh <sayantan.ghosh03@gmail.com> (https://github.com/itsSayantan)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/itsSayantan/proxy-wrappers/issues"
+  },
+  "homepage": "https://github.com/itsSayantan/proxy-wrappers#readme"
+}
