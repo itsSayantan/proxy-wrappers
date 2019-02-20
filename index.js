@@ -1,7 +1,9 @@
 const {
-    deepCopyWrapper
+    deepCopyWrapper,
+    findInObjectWrapper
 } = require('./wrappers')
 
 module.exports = {
-    deepCopyWrapper
+    deepCopyWrapper,
+    findInObjectWrapper
 }

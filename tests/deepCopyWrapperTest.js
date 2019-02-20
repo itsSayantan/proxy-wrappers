@@ -13,11 +13,13 @@ module.exports = {
 
         let copy = deepCopyWrapper(obj)
 
-        console.log("-----------------------------------")
+        console.log("***********************************")
+        console.log("---------DEEP COPY WRAPPER---------")
         console.log("--------  ORIGINAL OBJECT  --------")
         console.log(obj)
-        console.log("-------- DUPLICATE  OBJECT  -------")
+        console.log("--------- COPIED  OBJECT  ---------")
         console.log(copy)
         console.log("-----------------------------------")
+        console.log("***********************************")
     }
 }
